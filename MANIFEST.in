@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_haqxytools/templates *
+recursive-include octoprint_haqxytools/translations *
+recursive-include octoprint_haqxytools/static *
